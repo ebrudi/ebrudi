@@ -1,108 +1,90 @@
-[README_ebrudi.md](https://github.com/user-attachments/files/34540096/README_ebrudi.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B2CC,50:FADCE9,100:FFF1F6&height=205&section=header&text=Ebru%20Din%C3%A7&fontSize=48&fontColor=79465D&animation=fadeIn&fontAlignY=37&desc=Software%20Developer%20%7C%20Integration%20Specialist&descAlignY=59&descSize=17" width="100%" alt="Ebru Dinç pastel pink banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6B6D2,50:F9DCE9,100:FFF1F7&height=190&section=header&text=Ebru%20Din%C3%A7&fontSize=48&fontColor=75445D&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%7C%20Entegrasyon%20Uzman%C4%B1&descAlignY=60&descSize=16" width="100%" alt="Ebru Dinç - yazılım geliştirici ve entegrasyon uzmanı"/>
 
-### 🌷 Hi, I'm Ebru!
+### 🌷 Merhaba, ben Ebru!
 
-**Software Developer · Integration Specialist · Creative Builder**
+**Yazılım Geliştirici • Entegrasyon Uzmanı • Üretmeyi Seven Bir Geliştirici**
 
-I build web applications, work with enterprise integrations, and explore playful digital experiences.
+Web uygulamaları geliştiriyor, kurumsal sistemlerin entegrasyonu üzerinde çalışıyor ve yeni teknolojiler öğreniyorum.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ebrudi-F4BDD2?style=for-the-badge&logo=github&logoColor=553448)](https://github.com/ebrudi)
-![Profile Views](https://komarev.com/ghpvc/?username=ebrudi&label=Profile%20views&color=efadcb&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-ebrudi-F4BDD2?style=flat-square&logo=github&logoColor=553448)](https://github.com/ebrudi)
+![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=ebrudi&label=Profil%20Ziyaretleri&color=efadcb&style=flat-square)
 
 </div>
 
 ---
 
-### ✨ About me
+### ✨ Hakkımda
 
-- 💻 Computer Programming graduate with a passion for building useful software.
-- 🔗 Working in **enterprise integrations**, data mapping, and application connectivity.
-- 🌱 Developing my skills in **backend development, software architecture, and system design**.
-- 🎮 Creating **Pawmora**, a cozy mobile pet simulation project with Unity and Blender.
-- 🎯 Long-term goal: grow into **IT leadership** while continuing to build software.
-- 🌍 Based in Türkiye.
+- 🎓 **Bilgisayar Programcılığı** mezunuyum.
+- 🔗 **Entegrasyon uzmanı** olarak veri eşleme, sistemler arası veri akışı ve kurumsal entegrasyon süreçleriyle ilgileniyorum.
+- 💻 **Backend geliştirme**, veritabanları ve yazılım mimarisi üzerine çalışıyorum.
+- 🐰 **Pawmora** adlı, Unity ve Blender kullandığım mobil evcil hayvan simülasyonunu geliştiriyorum.
+- 🎯 Uzun vadeli hedefim teknik deneyimimi geliştirerek **BT yönetimi** alanında ilerlemek.
+- 📍 Türkiye'de yaşıyorum.
 
-### 🛠️ Tech stack
+### 🛠️ Kullandığım Teknolojiler
 
-<div align="center">
+**Web ve Backend**
 
-**Backend & Web**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,cs,dotnet,angular,html,css,js&perline=10" alt="Backend and web technologies"/>
+**Veritabanı ve Araçlar**
 
-**Data, Tools & Creative**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,unity,blender,vscode,visualstudio&perline=8" alt="Database, development and creative tools"/>
+---
 
-</div>
+### 🌸 Projelerim
 
-### 🌸 Featured projects
+#### 📚 [Öğrenci ve Ödev Takip Sistemi](https://github.com/ebrudi/ogrenci-takip-sistemi)
+Öğrenci takibi, ödev ve sınav süreçleri için geliştirilen; rol tabanlı yetkilendirme, veri doğrulama ve güvenlik özellikleri içeren web uygulaması.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`Python` · `FastAPI` · `SQLAlchemy` · `Tailwind CSS`
 
-#### 📚 [Student Tracking System](https://github.com/ebrudi/ogrenci-takip-sistemi)
+#### 🌐 [Hizmet Tanıtım Sayfası](https://github.com/ebrudi/hizmet-landing-page)
+Laravel altyapısıyla geliştirilen web projesi.
 
-Education-focused web application with role-based permissions, assignment and assessment workflows, and input validation.
+`PHP` · `Laravel`
 
-**Python · FastAPI · SQLAlchemy · Tailwind CSS**
+#### 🗂️ Personel Yönetim Paneli
+Personel ve görev yönetimi için geliştirdiğim; giriş, yetkilendirme, CRUD işlemleri ve otomatik testler içeren Laravel uygulaması.
 
-</td>
-<td width="50%" valign="top">
+`Laravel` · `MySQL` · `Blade` · `PHPUnit`
 
-#### 🌐 [Service Landing Page](https://github.com/ebrudi/hizmet-landing-page)
+*🔒 Kaynak kodu şu anda özel depoda tutuluyor.*
 
-Laravel-based landing page project. The repository is available to explore on GitHub.
+#### 🐰 Pawmora — Geliştirme Aşamasında
+Kendi evcil hayvanını özelleştirebildiğin, pastel renkli bir dünyada geçen mobil evcil hayvan simülasyonu.
 
-**PHP · Laravel**
+`Unity 6` · `C#` · `Blender` · `iOS`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+*🔒 Proje geliştiriliyor; kaynak kodu özel depoda tutuluyor.*
 
-#### 🐰 Pawmora — in development
+---
 
-A cozy mobile pet simulation built with **Unity 6** and **Blender**, featuring a customizable pet and a pastel-inspired world.
+### 💗 Gelişim Yolculuğum
 
-**Unity · C# · Blender · iOS-focused**
-
-<sub>Private repository · source code not publicly available</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗂️ Personnel Management Panel
-
-A web application for managing personnel and tasks, exploring authentication, authorization, relational data, and automated testing.
-
-**Laravel · MySQL · Blade · PHPUnit**
-
-<sub>Private repository · source code not publicly available</sub>
-
-</td>
-</tr>
-</table>
-
-### 📊 GitHub activity
+Yazılım geliştirme ve kurumsal entegrasyon alanlarındaki deneyimimi yeni projelerle güçlendiriyorum. Öğrenmeyi, fikirleri çalışan uygulamalara dönüştürmeyi ve tasarım ile teknolojiyi bir araya getirmeyi seviyorum.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebrudi&show_icons=true&hide_border=true&bg_color=FFF6FA&title_color=C06A93&text_color=785768&icon_color=D58EAF" height="160" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrudi&layout=compact&hide_border=true&bg_color=FFF6FA&title_color=C06A93&text_color=785768" height="160" alt="Most-used languages"/>
+**🌷 Ziyaretin için teşekkürler!**
 
-</div>
+*Öğrenmeye, geliştirmeye ve üretmeye devam.*
 
-<div align="center">
-
-### 💗 Thanks for visiting!
-
-*Learning, creating, and growing — one commit at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F6,50:FADCE9,100:F7B2CC&height=100&section=footer" width="100%" alt="Pastel pink footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F7,50:F9DCE9,100:F6B6D2&height=90&section=footer" width="100%" alt="Pastel pembe alt bant"/>
 
 </div>
