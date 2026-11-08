@@ -9,6 +9,7 @@
 Web uygulamaları geliştiriyor, kurumsal sistemlerin entegrasyonu üzerinde çalışıyor ve yeni teknolojiler öğreniyorum.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ebrudi-F4BDD2?style=flat-square&logo=github&logoColor=553448)](https://github.com/ebrudi)
+![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=ebrudi&label=Profil%20Ziyaretleri&color=efadcb&style=flat-square)
 
 </div>
 
