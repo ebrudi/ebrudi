@@ -21,7 +21,7 @@ Web uygulamaları geliştiriyor, kurumsal sistemlerin entegrasyonu üzerinde ça
 - 💻 **Backend geliştirme**, veritabanları ve yazılım mimarisi üzerine çalışıyorum.
 - 🐰 **Pawmora** adlı, Unity ve Blender kullandığım mobil evcil hayvan simülasyonunu geliştiriyorum.
 - 🎯 Uzun vadeli hedefim teknik deneyimimi geliştirerek **BT yönetimi** alanında ilerlemek.
-- 📍 Türkiye'de yaşıyorum.
+- 📍 **İstanbul'da yaşıyorum.**
 
 ### 🛠️ Kullandığım Teknolojiler
 
@@ -48,15 +48,21 @@ Web uygulamaları geliştiriyor, kurumsal sistemlerin entegrasyonu üzerinde ça
 
 ### 🌸 Öne Çıkan Projelerim
 
+[![Öğrenci ve Ödev Takip Sistemi](assets/ogrenci-cover.svg)](https://github.com/ebrudi/ogrenci-takip-sistemi)
+
 #### 📚 [Öğrenci ve Ödev Takip Sistemi](https://github.com/ebrudi/ogrenci-takip-sistemi)
 Öğrenci takibi, ödev ve sınav süreçleri için geliştirilen; rol tabanlı yetkilendirme, veri doğrulama ve güvenlik özellikleri içeren web uygulaması.
 
 `Python` · `FastAPI` · `SQLAlchemy` · `Tailwind CSS`
 
+[![Hizmet Tanıtım Sayfası](assets/hizmet-cover.svg)](https://github.com/ebrudi/hizmet-landing-page)
+
 #### 🌐 [Hizmet Tanıtım Sayfası](https://github.com/ebrudi/hizmet-landing-page)
 Laravel altyapısıyla geliştirilen web projesi.
 
 `PHP` · `Laravel`
+
+![Personel Yönetim Paneli](assets/personel-paneli-cover.svg)
 
 #### 🗂️ Personel Yönetim Paneli
 Personel ve görev yönetimi için geliştirdiğim; giriş, yetkilendirme, CRUD işlemleri ve otomatik testler içeren Laravel uygulaması.
@@ -64,6 +70,8 @@ Personel ve görev yönetimi için geliştirdiğim; giriş, yetkilendirme, CRUD 
 `Laravel` · `MySQL` · `Blade` · `PHPUnit`
 
 *🔒 Kaynak kodu şu anda özel depoda tutuluyor.*
+
+![Pawmora](assets/pawmora-cover.svg)
 
 #### 🐰 Pawmora — Geliştirme Aşamasında
 Kendi evcil hayvanını özelleştirebildiğin, pastel renkli bir dünyada geçen mobil evcil hayvan simülasyonu.
